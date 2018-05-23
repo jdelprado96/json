@@ -6,8 +6,8 @@
   "type": "Profile",
   "id": "https://github.com/jdelprado96/json/blob/master/src/issuer-testnet.json",
   "name": "University of Learning",
-  "url": "https://github.com/jdelprado96/json/blob/master/src/issuer-testnet.json",
-  "introductionURL": "https://github.com/jdelprado96/json/blob/master/src/",
+  "url": "https://www.issuer.org",
+  "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x10806Cc8Ac29D1eb5dFA6f3dfd3AF097a018DFf0",
