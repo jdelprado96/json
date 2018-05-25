@@ -9,7 +9,7 @@
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [{
-    "id": "ecdsa-koblitz-pubkey:0x10806Cc8Ac29D1eb5dFA6f3dfd3AF097a018DFf0",
+    "id": "ecdsa-koblitz-pubkey:0x10806cc8ac29d1eb5dfa6f3dfd3af097a018dff0",
     "created": "2017-06-29T14:48:03.814936+00:00"
   }],
   "revocationList": "https://raw.githubusercontent.com/jdelprado96/json/master/src/revocation-list-testnet.json",
