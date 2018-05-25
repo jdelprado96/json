@@ -6,7 +6,7 @@
   "type": "Profile",
   "id": "https://raw.githubusercontent.com/jdelprado96/json/master/src/issuer-testnet.json",
   "name": "jdelprado",
-  "url": "https://www.issuer.org",
+  "url": "https://github.com/",
   "introductionURL": "https://github.com/jdelprado96/json/tree/master/src",
   "publicKey": [{
     "id": "ecdsa-koblitz-pubkey:0x10806cc8ac29d1eb5dfa6f3dfd3af097a018dff0",
